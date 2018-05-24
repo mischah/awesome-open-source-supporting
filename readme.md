@@ -35,6 +35,7 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 | 📛 / 🌎 | 💰 | :octocat: | ✍️ |
 | -------------- | ------------ | ------------ | ------- |
 | [Babel](https://babeljs.io/) <br> Compiler for writing next generation JavaScript.| [Open Collective](https://opencollective.com/babel) | [github.com/babel](https://github.com/babel) | [twitter.com/babeljs](https://twitter.com/babeljs) |
+| [nodemon](http://nodemon.io/) <br> Monitors for changes in your source and automatically restarts your server. | [Open Collective](https://opencollective.com/nodemon) | [github.com/remy/nodemon](https://github.com/remy/nodemon) | [twitter.com/rem](https://twitter.com/rem) |
 | [Parcel](https://parceljs.org/) <br> Zero configuration web application bundler. | [Open Collective](https://opencollective.com/parcel) | [github.com/parcel-bundler](https://github.com/parcel-bundler/parcel) | [twitter.com/parceljs](https://twitter.com/parceljs) |
 | [stdlib](https://stdlib.io) <br> Standard library for JavaScript and Node.js. | - | [github.com/stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | [twitter.com/stdlibjs](https://twitter.com/stdlibjs) |
 | [Vue](https://vuejs.org/) <br> Progressive framework for building user interfaces. | [Open Collective](https://opencollective.com/vuejs) | [github.com/vuejs](https://github.com/vuejs) | [twitter.com/vuejs](https://twitter.com/vuejs) |
