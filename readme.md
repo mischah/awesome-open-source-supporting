@@ -42,6 +42,7 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 | [webpack](https://webpack.js.org/) <br> Build solution for modern web applications. | [Open Collective](https://opencollective.com/webpack) | [github.com/webpack](https://github.com/webpack) | [twitter.com/webpack](https://twitter.com/webpack) |
 | [wolkenkit](https://www.wolkenkit.io/) <br> CQRS and event-sourcing framework for JavaScript and Node.js. | - | [github.com/thenativeweb/wolkenkit](https://github.com/thenativeweb/wolkenkit) | [twitter.com/thenativeweb](https://twitter.com/thenativeweb) |
 | [Yeoman](http://yeoman.io/) <br> Scaffolding tool for modern webapps. | [Open Collective](https://opencollective.com/yeoman) | [github.com/yeoman](https://github.com/yeoman) | [twitter.com/yeoman](https://twitter.com/yeoman) |
+| [Homebrew](https://brew.sh/) <br> The missing package manager for macOS (or Linux) | [See at Github](https://github.com/Homebrew/brew#Donations) | [github.com/Homebrew/brew](https://github.com/Homebrew/brew) | [twitter.com/machomebrew](https://twitter.com/machomebrew?lang=de) | 
 
 ## Open Source Maintainers
 
